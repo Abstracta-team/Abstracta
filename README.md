@@ -8,3 +8,10 @@ La misión de Abstracta es democratizar la literatura científica. Buscamos dise
 
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1tttcuxQW0ulnNvZscDKllpmbueY-Lh3L?usp=sharing)
 [![Deployed on Cloudflare](https://img.shields.io/badge/Deployed%20on-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://papers-65m.pages.dev/)
+
+## Integrantes
+- Ricardo Cornejo [rcornejo-UM]
+- Nicolas Yevenes [nickyyevh]
+- José Tejada [josetejada-UM]
+- Martin Fariña [martinfarina-ux]
+- Matías Quezada [Schulermitangst]
